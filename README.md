@@ -31,7 +31,7 @@ This lab was performed in a secure, isolated lab environment and is intended str
 ## 👨‍💻 Author  
 **Sameer Malik** – Cybersecurity enthusiast and red teamer-in-progress  
 GitHub: [mSameerMalik](https://github.com/mSameerMalik)  
-LinkedIn: [linkedin.com/in/sameer-malik-18b52634b](https://www.linkedin.com/in/muhamad-sameer-malik-18b52634b/)
+LinkedIn: [linkedin.com/in/muhammad-sameer-malik-18b52634b](https://www.linkedin.com/in/muhammad-sameer-malik-18b52634b/)
 
 ## 🏷️ Tags  
 #SocialEngineering #SET #Phishing #CredentialHarvesting #CyberSecurity #RedTeam #KaliLinux
